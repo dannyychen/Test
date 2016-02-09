@@ -1,2 +1,3 @@
 Day 1
-Set up for GitHub and Android SDK
+Set up for GitHub and Android 
+Change
